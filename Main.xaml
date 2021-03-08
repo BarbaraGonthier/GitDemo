@@ -50,7 +50,7 @@
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Name="Var">
         <Variable.Default>
-          <Literal x:TypeArguments="x:String">hello!</Literal>
+          <Literal x:TypeArguments="x:String">hello world!</Literal>
         </Variable.Default>
       </Variable>
     </Sequence.Variables>
